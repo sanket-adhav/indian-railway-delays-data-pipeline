@@ -16,6 +16,7 @@ The pipeline follows the **Medallion Architecture (Bronze → Silver → Gold)**
 ## 🏛️ Architecture Diagram
 
 ![Architecture Diagram](docs/architecture_diagram (2).png)  
+
 *Figure 1: AWS Data Lake Architecture for Train Delay Analysis.*
 
 ---
