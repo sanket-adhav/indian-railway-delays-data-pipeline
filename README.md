@@ -191,8 +191,8 @@ indian-railway-delays-data-pipeline/
 **Sanket Aba Adhav**  
 _Data Engineer | AWS & PySpark Enthusiast_  
 📧 [sankettadhav2004@gmail.com]  
-🔗 [LinkedIn Profile](www.linkedin.com/in/sanket-adhav-279023257)  
-🔗 [GitHub Repository](https://github.com/sanket-521/indian-railway-delays-data-pipeline)
+🔗 [LinkedIn](www.linkedin.com/in/sanket-adhav-279023257)  
+🔗 [GitHub](https://github.com/sanket-521/indian-railway-delays-data-pipeline)
 
 ---
 
