@@ -60,6 +60,6 @@ glueContext.write_dynamic_frame.from_options(
     format="parquet"
 )
 
-print("✅ Curated data written successfully!")
+print("✅ Curated data written successfully!!")
 
 job.commit()
