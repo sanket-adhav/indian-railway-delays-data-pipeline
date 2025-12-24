@@ -1,6 +1,6 @@
 # 🚆 Indian Railway Delays Data Pipeline (AWS Data Lake Project)
 
-### 👤 Author: Sanket Aba Adhav  
+### 👤 Author: Sanket Adhav  
 **Role:** Data Engineer  
 
 ---
